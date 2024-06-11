@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/veritatis-perferendis-pariatur-occaecati",
-  "version": "2.5.34",
+  "version": "2.5.35",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -146,5 +146,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/veritatis-perferendis-pariatur-occaecati/issues"
   },
-  "packageManager": "yarn@4.2.2"
+  "packageManager": "yarn@4.3.0"
 }
